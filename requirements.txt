@@ -12,3 +12,4 @@ llama-index-response-synthesizers-google
 pinecone-client
 neo4j-driver
 sentence-transformers
+gunicorn
